@@ -113,6 +113,7 @@ Commercial providers appear **alphabetically, not by recommendation or sponsorsh
 - [Private Internet Access](https://www.privateinternetaccess.com/) - Commercial VPN service with configurable client applications.
 - [Proton VPN](https://protonvpn.com/) - VPN provider offering free and paid plans.
 - [Surfshark](https://surfshark.com/) - Consumer VPN service with multi-device applications.
+- [Tsuki (月兔 VPN)](https://buddahs-temptation.win/tsuki) - Commercial proxy subscription billed by traffic quota and plan duration; compatible with Shadowrocket, Hiddify, Clash Meta, and Clash Verge. Plans start at CNY 12 for 30 days (100 GB per 30 days).
 - [Windscribe](https://windscribe.com/) - VPN provider offering free and paid plans and browser extensions.
 - [YepNow][yepnow-list] - Managed VPN service operated by this list's maintainers; see the disclosure below.
 
