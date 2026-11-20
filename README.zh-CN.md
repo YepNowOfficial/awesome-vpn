@@ -113,7 +113,7 @@
 - [Private Internet Access](https://www.privateinternetaccess.com/) - 提供可配置客户端的商业 VPN 服务。
 - [Proton VPN](https://protonvpn.com/) - 提供免费和付费套餐的 VPN 服务商。
 - [Surfshark](https://surfshark.com/) - 支持多种设备平台的消费级 VPN 服务。
-- [Tsuki（月兔 VPN）](https://buddahs-temptation.win/tsuki) - 按流量和有效期计费的商业代理订阅服务，兼容 Shadowrocket、Hiddify、Clash Meta 和 Clash Verge；套餐价格需登录后查看。
+- [Tsuki（月兔 VPN）](https://buddahs-temptation.win/tsuki) - 按流量和有效期计费的商业代理订阅服务，兼容 Shadowrocket、Hiddify、Clash Meta 和 Clash Verge；起价为 30 天 CNY 12（每 30 天 100 GB）。
 - [Windscribe](https://windscribe.com/) - 提供免费、付费方案及浏览器扩展的 VPN 服务商。
 - [YepNow][yepnow-list] - 由本仓库维护团队运营的商业 VPN 服务；详情请见利益关联披露。
 
